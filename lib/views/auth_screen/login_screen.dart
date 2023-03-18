@@ -8,6 +8,8 @@ import 'package:ecommerce_app/views/widgets_common/our_button.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
+import '../home_screen/home.dart';
+
 class LoginScreen extends StatelessWidget {
   const LoginScreen({super.key});
 
@@ -35,13 +37,12 @@ class LoginScreen extends StatelessWidget {
               5.heightBox,
               // ourButton().box.width(context.screenWidth - 50).make(),
               ourButton(
-                      color: redColor,
-                      title: login,
-                      textColor: whiteColor,
-                      onPress: () {})
-                  .box
-                  .width(context.screenWidth - 50)
-                  .make(),
+                  color: redColor,
+                  title: login,
+                  textColor: whiteColor,
+                  onPress: () {
+                    Get.to(() => const Home());
+                  }).box.width(context.screenWidth - 50).make(),
               5.heightBox,
               createNewAccount.text.color(fontGrey).make(),
               5.heightBox,
