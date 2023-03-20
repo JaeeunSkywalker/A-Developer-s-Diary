@@ -10,10 +10,13 @@ const name = "Name";
 const nameHint = "lovejaeeundev";
 const forgetPass = "Forget Password";
 const login = "Log in";
+const logout = "Log out";
 const signup = "Sign up";
 const createNewAccount = "or, create a new account";
 const loginWith = "Log in with";
 const privacyPolicy = "Privacy Policy";
+const loggedin = "Logged in successfully";
+const loggedout = "Logged out successfully";
 const termAndCond = "Terms and Conditions";
 const alreadyHaveAccount = "Already have an account? ";
 
@@ -41,7 +44,7 @@ const searchanything = "Search anything...",
 
 //category strings
 const womenClothing = "Women Clothing",
-    menClothingFashion = "Men Clothing & Fashin",
+    menClothingFashion = "Men Clothing & Fashion",
     compAccess = "Computer & Accessories",
     automobile = "Automobile",
     kidtoys = "Kids & Toys",
@@ -57,3 +60,10 @@ const video = "Video",
     returnpolicy = "Return Policy",
     supportpolicy = "Support Policy",
     productsyoumaylife = "Products you may also like";
+
+//profile strings
+const wishlist = "My Wishlist",
+    orders = "My Orders",
+    messages = "Messages",
+    oldpass = "Old password",
+    newpass = "New Password";
