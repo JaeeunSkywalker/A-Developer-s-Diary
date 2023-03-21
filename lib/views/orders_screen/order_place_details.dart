@@ -14,12 +14,15 @@ Widget orderPlaceDetails({title1, title2, d1, d2}) {
             "$d1".text.color(redColor).fontFamily(semibold).make(),
           ],
         ),
-        Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            "$title2".text.fontFamily(semibold).make(),
-            "$d2".text.make(),
-          ],
+        SizedBox(
+          width: 130,
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              "$title2".text.fontFamily(semibold).make(),
+              "$d2".text.make(),
+            ],
+          ),
         ),
       ],
     ),
