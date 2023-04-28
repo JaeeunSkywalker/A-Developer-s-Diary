@@ -14,7 +14,7 @@ The 3rd app project used Flutter, Firebase, Firestore, drift(SQLite)<br>
 코드팩토리 플러터 프로젝트 리메이크<br>
 The 3rd project is currently in progress...<br>
 🔥<br>
-04-09 ~<br>
+04-28 ~<br>
 React, Node.js 웹 프로젝트<br>
 The 4th project is currently in progress...<br>
 🔥<br>
