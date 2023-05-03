@@ -20,7 +20,7 @@ The 4th project is currently in progress...<br>
 🔥<br>
 
 05-04 ~<br>
-김해시 관광앱 만들기<br>
+김해시 관광앱 만들기 > 한글, 영어 서비스(타겟은 외국인) > 부산시, 경주시도 예정<br>
 (Auth 적용, Pagination(일반화) 적용, 데이터 모델링 적용,<br>
 JsonSerializable, Retrofit, Dio Interceptor 적용,<br>
 Riverpod 적용, 고급 캐시 관리 및 공유, GoRouter 적용,<br>
