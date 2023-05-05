@@ -8,7 +8,7 @@ The 2nd app project used Flutter, Firebase, Firestore, Firebase Storage<br>
 <br>
 04-18 ~ 04-27<br>
 '1day 1success' 프로젝트<br>
-The 3rd app project used Flutter, Firebase, Firestore, drift(SQLite)<br> > My app is now available on the Google Play Store!
+The 3rd app project used Flutter, Firebase, Firestore, drift(SQLite) > My app is now available on the Google Play Store!<br>
 🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲<br>
 04-09 ~<br>
 코드팩토리 플러터 프로젝트 리메이크<br>
