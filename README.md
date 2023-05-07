@@ -19,7 +19,7 @@ React, Node.js 웹 프로젝트<br>
 The 4th project is currently in progress...<br>
 🔥<br>
 
-05-04 ~<br>
+05-08 ~<br>
 김해시 관광앱 만들기 > 한글, 영어 서비스(타겟은 외국인) > 부산시, 경주시도 예정<br>
 (Auth 적용, Pagination(일반화) 적용, 데이터 모델링 적용,<br>
 JsonSerializable, Retrofit, Dio Interceptor 적용,<br>
